@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
+    //classe Dados
     class Dados
     {
         //Declaração de variaveis
