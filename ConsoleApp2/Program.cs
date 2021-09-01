@@ -30,6 +30,7 @@ namespace ConsoleApp2
             Console.WriteLine("Insira a idade da segunda pessoa:");
             y.idade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            //Comparar e informar quem é o mais velho
             if (x.idade > y.idade)
             {
                 Console.WriteLine("A pessoa mais velha é: " + x.nome);

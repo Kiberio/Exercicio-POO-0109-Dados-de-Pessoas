@@ -8,6 +8,7 @@ namespace ConsoleApp2
 {
     class Dados
     {
+        //Declaração de variaveis
         public int idade;
         public string nome;
     }
